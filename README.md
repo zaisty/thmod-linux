@@ -31,7 +31,7 @@ Setup it like that:
 Run The Hell 3 mod
 ---------------------------------------------
 On Heroic Games Launcher click on poster with mod and then click play now.
-That's it. Enjoy Your game.
+That's it. Enjoy Your game!
 
 Issues
 ---------------------------------------------
