@@ -25,7 +25,7 @@ Setup it like that:
 * App Image: https://github.com/zaisty/thmod-linux/blob/f437a36355cff4a562c6c918c2e03a32da78c170/the_hell_3_mod_custom_logo.png or download it and paste path to file.
 * Platform version to install: Windows
 * Show Wine settings: Change only the Wine version to proton-ge-latest. Download it on Heroic Games Launcher with Wine manager (choose Proton-GE latest version).
-* Select Executable: choose TH3.exe from mod folder.
+* Select Executable: Choose TH3.exe from mod folder.
 * Click Finish (not "Run Installer first")
 
 Run The Hell 3 mod
