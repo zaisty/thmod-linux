@@ -22,7 +22,7 @@ Add The Hell 3 mod to Heroic Games Launcher
 In Heroic Games Launcher click "Add game" in main screen of Your games library. The window screen popup with settings.
 Setup it like that:
 * Game/App Title: TH3 or The Hell 3
-* App Image: https://github.com/zaisty/thmod-linux/blob/f437a36355cff4a562c6c918c2e03a32da78c170/the_hell_3_mod_custom_logo.png or download it and paste path to file.
+* App Image: https://raw.githubusercontent.com/zaisty/thmod-linux/ab934d5c1d29d46a3f0248b1af85c0013225df2d/the_hell_3_mod_custom_logo.png or download it and paste path to file.
 * Platform version to install: Windows
 * Show Wine settings: Change only the Wine version to proton-ge-latest. Download it on Heroic Games Launcher with Wine manager (choose Proton-GE latest version).
 * Select Executable: Choose TH3.exe from mod folder.
